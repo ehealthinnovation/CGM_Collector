@@ -1,0 +1,31 @@
+# xcode noise
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+*.pyc
+*~.nib/
+build/*
+bantType2.xcworkspace/xcuserdata/*
+ 
+# Textmate - if you build your xcode projects with it
+*.tm_build_errors
+ 
+# old skool
+.svn
+ 
+# osx noise
+.DS_Store
+profile
+
+# mvim noise
+*.swp
+
+# junit
+junit-report/*.xml
+
+# Cocoa Pod noise
+Pods/*
+
+
+
+
+
