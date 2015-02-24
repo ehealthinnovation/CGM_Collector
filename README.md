@@ -1,9 +1,9 @@
 CGM_Collector
 =============
 
-This is the manager/collector CGM app repo for the JDRF workshops. Will include iOS and Android CGM Collector apps.
-
 ##Description
+
+This is the manager/collector CGM app repo for the JDRF workshops. Will include iOS and Android CGM Collector apps.
 
 ##Documentation
 
