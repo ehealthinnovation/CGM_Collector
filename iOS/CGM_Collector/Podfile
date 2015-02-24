@@ -1,0 +1,9 @@
+# platforms supported
+platform :ios, '7.0'
+
+# installed libraries
+pod 'NHArrowView'
+pod 'UHNDebug'
+pod 'UHNTimeSeriesPlotView'
+pod 'UHNBLEController'
+pod 'UHNCGMController'

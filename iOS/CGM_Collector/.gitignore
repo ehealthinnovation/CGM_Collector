@@ -4,7 +4,7 @@
 *.pyc
 *~.nib/
 build/*
-bantType2.xcworkspace/xcuserdata/*
+*.xcworkspace/xcuserdata/*
  
 # Textmate - if you build your xcode projects with it
 *.tm_build_errors
