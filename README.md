@@ -1,7 +1,20 @@
-Logan_app
-=========
+CGM_Collector
+=============
 
-This is the manager/collector app repo for the JDRF workshops. Will include iOS and Android apps and potentially a server to accept FHIR/hData/HL7.
+This is the manager/collector CGM app repo for the JDRF workshops. Will include iOS and Android CGM Collector apps.
+
+##Description
+
+##Documentation
+
+The documentation of this software library is available in two ways,
+
+* It is accessible in the `gh-pages` branch
+* The same content is hosted at http://uhnmdi.github.io/CGM_Collector 
+
+##Author
+
+Nathaniel Hamming, <mailto:nhamming@ehealthinnovation.org>
 
 
 Open Source License
