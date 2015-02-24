@@ -51,7 +51,6 @@
 - (IBAction)connectButtonPressed:(id)sender;
 - (IBAction)startSessionButtonPressed:(id)sender;
 - (IBAction)dismissButtonPressed:(id)sender;
-- (IBAction)setHypoButtonPressed:(id)sender;
 @end
 
 @implementation ViewController
