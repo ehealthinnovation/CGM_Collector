@@ -10,3 +10,23 @@ h2 {
 .panel-container {
 	padding-top: 50px;
 }
+
+/* unvisited link */
+a:link {
+    color: DarkGray;
+}
+
+/* visited link */
+a:visited {
+    color: DarkGray;
+}
+
+/* mouse over link */
+a:hover {
+    color: DarkGray;
+}
+
+/* selected link */
+a:active {
+    color: DarkGray;
+}
