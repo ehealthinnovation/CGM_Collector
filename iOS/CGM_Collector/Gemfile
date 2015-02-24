@@ -1,8 +1,0 @@
-source "https://rubygems.org"
-
-# not sure why version needs to be specified, but if not, cocoapod v0.2.0 gets installed
-gem 'cocoapods', '>= 0.35.0'
-
-gem 'rake'
-gem 'xcodebuild-rb'
-gem 'xcodeproj'
