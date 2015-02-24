@@ -6,6 +6,20 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXAggregateTarget section */
+		487396D41A9CFA41009C9393 /* documentation */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 487396D81A9CFA41009C9393 /* Build configuration list for PBXAggregateTarget "documentation" */;
+			buildPhases = (
+				487396D91A9CFA49009C9393 /* ShellScript */,
+			);
+			dependencies = (
+			);
+			name = documentation;
+			productName = documentation;
+		};
+/* End PBXAggregateTarget section */
+
 /* Begin PBXBuildFile section */
 		4846DD981A71DBEA005E111B /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4846DD971A71DBEA005E111B /* icon.png */; };
 		48EE56BC1A5C5BE7007EFA6D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 48EE56BB1A5C5BE7007EFA6D /* main.m */; };
@@ -211,6 +225,9 @@
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = eHealth;
 				TargetAttributes = {
+					487396D41A9CFA41009C9393 = {
+						CreatedOnToolsVersion = 6.1.1;
+					};
 					48EE56B51A5C5BE7007EFA6D = {
 						CreatedOnToolsVersion = 6.1.1;
 					};
@@ -235,6 +252,7 @@
 			targets = (
 				48EE56B51A5C5BE7007EFA6D /* CGM_Collector */,
 				48EE56CE1A5C5BE7007EFA6D /* CGM_CollectorTests */,
+				487396D41A9CFA41009C9393 /* documentation */,
 			);
 		};
 /* End PBXProject section */
@@ -261,6 +279,19 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		487396D91A9CFA49009C9393 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "#appledoc Xcode script\n# Start constants\ncompany=\"Centre for Global eHealth Innovation\";\ncompanyID=\"org.ehealthinnovation\";\ncompanyURL=\"http://ehealthinnovation.com\";\ntarget=\"iphoneos\";\n#target=\"macosx\";\noutputPath=\"../docs\";\n# End constants\n/usr/local/bin/appledoc \\\n--project-name \"${PROJECT_NAME}\" \\\n--project-company \"${company}\" \\\n--company-id \"${companyID}\" \\\n--output \"${outputPath}\" \\\n--docset-platform-family \"${target}\" \\\n--logformat xcode \\\n--keep-intermediate-files \\\n--no-repeat-first-par \\\n--no-warn-invalid-crossref \\\n--exit-threshold 2 \\\n--ignore .m \\\n\"${PROJECT_DIR}\"";
+		};
 		91CDCCBF8AC297A9A71C4669 /* Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -416,6 +447,27 @@
 			};
 			name = Staging;
 		};
+		487396D51A9CFA41009C9393 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		487396D61A9CFA41009C9393 /* Staging */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Staging;
+		};
+		487396D71A9CFA41009C9393 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 		48EE56D71A5C5BE7007EFA6D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -560,6 +612,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		487396D81A9CFA41009C9393 /* Build configuration list for PBXAggregateTarget "documentation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				487396D51A9CFA41009C9393 /* Debug */,
+				487396D61A9CFA41009C9393 /* Staging */,
+				487396D71A9CFA41009C9393 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
 		48EE56B11A5C5BE7007EFA6D /* Build configuration list for PBXProject "CGM_Collector" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
