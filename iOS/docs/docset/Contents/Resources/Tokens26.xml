@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Constants/DSTOffsetOption.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/c/tdef/DSTOffsetOption</TokenIdentifier>
+			<Abstract type="html">All possible CGM session start time DST options with their assigned value</Abstract>
+			<DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+			
+			<NodeRef refid="26"/>
+		</Token>
+		
+		
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/DSTStandardTime</TokenIdentifier>
+            <Abstract type="html">DST option indicating standard time (no offset)</Abstract>
+            <Declaration>DSTStandardTime</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="26"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/DSTPlusHourHalf</TokenIdentifier>
+            <Abstract type="html">DST option indicating standard time plus half hour offset</Abstract>
+            <Declaration>DSTPlusHourHalf</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="26"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/DSTPlusHourOne</TokenIdentifier>
+            <Abstract type="html">DST option indicating standard time plus hour offset</Abstract>
+            <Declaration>DSTPlusHourOne</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="26"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/DSTPlusHoursTwo</TokenIdentifier>
+            <Abstract type="html">DST option indicating standard time plus two hours offset</Abstract>
+            <Declaration>DSTPlusHoursTwo</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="26"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/DSTUnknown</TokenIdentifier>
+            <Abstract type="html">DST option indicating the offset is unknown</Abstract>
+            <Declaration>DSTUnknown</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="26"/>
+        </Token>
+        
+        
+	</File>
+</Tokens>

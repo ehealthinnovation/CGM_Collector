@@ -1,0 +1,4 @@
+Documentation set was installed to Xcode!
+
+Path: /Users/nhamming/Library/Developer/Shared/Documentation/DocSets/org.ehealthinnovation.CGM_Collector.docset
+Time: 2015-02-24 18:29:38 +0000

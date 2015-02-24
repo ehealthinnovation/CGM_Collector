@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DocSetNodes version="1.0">
+    <TOC>
+        <Node type="folder">
+            <Name>CGM_Collector</Name>
+            <Path>index.html</Path>
+			<Subnodes>
+                
+				
+				<Node type="folder">
+					<Name>Classes</Name>
+					<Path>index.html</Path>
+					<Subnodes>
+						<NodeRef refid="1"/>
+						<NodeRef refid="2"/>
+						<NodeRef refid="3"/>
+						<NodeRef refid="4"/>
+						
+					</Subnodes>
+				</Node>
+				
+				
+				<Node>
+					<Name>Categories</Name>
+					<Path>index.html</Path>
+					<Subnodes>
+						<NodeRef refid="5"/>
+						<NodeRef refid="6"/>
+						<NodeRef refid="7"/>
+						<NodeRef refid="8"/>
+						<NodeRef refid="9"/>
+						<NodeRef refid="10"/>
+						<NodeRef refid="11"/>
+						<NodeRef refid="12"/>
+						<NodeRef refid="13"/>
+						<NodeRef refid="14"/>
+						<NodeRef refid="15"/>
+						
+					</Subnodes>
+				</Node>
+				
+                
+				<Node>
+					<Name>Protocols</Name>
+					<Path>index.html</Path>
+					<Subnodes>
+						<NodeRef refid="16"/>
+						<NodeRef refid="17"/>
+						
+					</Subnodes>
+				</Node>
+				
+                
+				<Node>
+					<Name>Constants</Name>
+					<Path>index.html</Path>
+					<Subnodes>
+						<NodeRef refid="18"/>
+						<NodeRef refid="19"/>
+						<NodeRef refid="20"/>
+						<NodeRef refid="21"/>
+						<NodeRef refid="22"/>
+						<NodeRef refid="23"/>
+						<NodeRef refid="24"/>
+						<NodeRef refid="25"/>
+						<NodeRef refid="26"/>
+						<NodeRef refid="27"/>
+						<NodeRef refid="28"/>
+						<NodeRef refid="29"/>
+						<NodeRef refid="30"/>
+						<NodeRef refid="31"/>
+						<NodeRef refid="32"/>
+						
+					</Subnodes>
+				</Node>
+				
+                
+			</Subnodes>
+        </Node>
+    </TOC>
+	<Library>
+		
+		<Node id="1" type="file" documentType="reference">
+            <Name>NHArrowView</Name>
+            <Path>Classes/NHArrowView.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Classes/NHArrowView.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Classes/NHArrowView.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                <Node type="section">
+                    <Path>Classes/NHArrowView.html</Path>
+                    <Name>Properties</Name>
+                    <Anchor>properties</Anchor>
+                </Node>
+                
+                
+                
+                <Node type="section">
+                    <Path>Classes/NHArrowView.html</Path>
+                    <Name>Instance Methods</Name>
+                    <Anchor>instance_methods</Anchor>
+                </Node>
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="2" type="file" documentType="reference">
+            <Name>UHNBLEController</Name>
+            <Path>Classes/UHNBLEController.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Classes/UHNBLEController.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Classes/UHNBLEController.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                <Node type="section">
+                    <Path>Classes/UHNBLEController.html</Path>
+                    <Name>Properties</Name>
+                    <Anchor>properties</Anchor>
+                </Node>
+                
+                
+                
+                <Node type="section">
+                    <Path>Classes/UHNBLEController.html</Path>
+                    <Name>Instance Methods</Name>
+                    <Anchor>instance_methods</Anchor>
+                </Node>
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="3" type="file" documentType="reference">
+            <Name>UHNCGMController</Name>
+            <Path>Classes/UHNCGMController.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Classes/UHNCGMController.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Classes/UHNCGMController.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                
+                
+                <Node type="section">
+                    <Path>Classes/UHNCGMController.html</Path>
+                    <Name>Instance Methods</Name>
+                    <Anchor>instance_methods</Anchor>
+                </Node>
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="4" type="file" documentType="reference">
+            <Name>UHNScrollingTimeSeriesPlotView</Name>
+            <Path>Classes/UHNScrollingTimeSeriesPlotView.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Classes/UHNScrollingTimeSeriesPlotView.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Classes/UHNScrollingTimeSeriesPlotView.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                <Node type="section">
+                    <Path>Classes/UHNScrollingTimeSeriesPlotView.html</Path>
+                    <Name>Properties</Name>
+                    <Anchor>properties</Anchor>
+                </Node>
+                
+                
+                
+                <Node type="section">
+                    <Path>Classes/UHNScrollingTimeSeriesPlotView.html</Path>
+                    <Name>Instance Methods</Name>
+                    <Anchor>instance_methods</Anchor>
+                </Node>
+                
+            </Subnodes>
+            
+        </Node>
+		
+		<Node id="5" type="file" documentType="reference">
+            <Name>CBCentralManager(StateString)</Name>
+            <Path>Categories/CBCentralManager+StateString.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Categories/CBCentralManager+StateString.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Categories/CBCentralManager+StateString.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                
+                
+                <Node type="section">
+                    <Path>Categories/CBCentralManager+StateString.html</Path>
+                    <Name>Instance Methods</Name>
+                    <Anchor>instance_methods</Anchor>
+                </Node>
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="6" type="file" documentType="reference">
+            <Name>CBUUID(Extension)</Name>
+            <Path>Categories/CBUUID+Extension.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Categories/CBUUID+Extension.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Categories/CBUUID+Extension.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                
+                
+                <Node type="section">
+                    <Path>Categories/CBUUID+Extension.html</Path>
+                    <Name>Instance Methods</Name>
+                    <Anchor>instance_methods</Anchor>
+                </Node>
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="7" type="file" documentType="reference">
+            <Name>NSData(CGMCommands)</Name>
+            <Path>Categories/NSData+CGMCommands.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Categories/NSData+CGMCommands.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Categories/NSData+CGMCommands.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                
+                <Node type="section">
+                    <Path>Categories/NSData+CGMCommands.html</Path>
+                    <Name>Class Methods</Name>
+                    <Anchor>class_methods</Anchor>
+                </Node>
+                
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="8" type="file" documentType="reference">
+            <Name>NSData(CGMParser)</Name>
+            <Path>Categories/NSData+CGMParser.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Categories/NSData+CGMParser.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Categories/NSData+CGMParser.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                
+                
+                <Node type="section">
+                    <Path>Categories/NSData+CGMParser.html</Path>
+                    <Name>Instance Methods</Name>
+                    <Anchor>instance_methods</Anchor>
+                </Node>
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="9" type="file" documentType="reference">
+            <Name>NSData(ConversionExtensions)</Name>
+            <Path>Categories/NSData+ConversionExtensions.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Categories/NSData+ConversionExtensions.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Categories/NSData+ConversionExtensions.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                
+                
+                <Node type="section">
+                    <Path>Categories/NSData+ConversionExtensions.html</Path>
+                    <Name>Instance Methods</Name>
+                    <Anchor>instance_methods</Anchor>
+                </Node>
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="10" type="file" documentType="reference">
+            <Name>NSData(RACPCommands)</Name>
+            <Path>Categories/NSData+RACPCommands.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Categories/NSData+RACPCommands.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Categories/NSData+RACPCommands.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                
+                <Node type="section">
+                    <Path>Categories/NSData+RACPCommands.html</Path>
+                    <Name>Class Methods</Name>
+                    <Anchor>class_methods</Anchor>
+                </Node>
+                
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="11" type="file" documentType="reference">
+            <Name>NSData(RACPParser)</Name>
+            <Path>Categories/NSData+RACPParser.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Categories/NSData+RACPParser.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Categories/NSData+RACPParser.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                
+                
+                <Node type="section">
+                    <Path>Categories/NSData+RACPParser.html</Path>
+                    <Name>Instance Methods</Name>
+                    <Anchor>instance_methods</Anchor>
+                </Node>
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="12" type="file" documentType="reference">
+            <Name>NSDictionary(CGMExtensions)</Name>
+            <Path>Categories/NSDictionary+CGMExtensions.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Categories/NSDictionary+CGMExtensions.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Categories/NSDictionary+CGMExtensions.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                
+                
+                <Node type="section">
+                    <Path>Categories/NSDictionary+CGMExtensions.html</Path>
+                    <Name>Instance Methods</Name>
+                    <Anchor>instance_methods</Anchor>
+                </Node>
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="13" type="file" documentType="reference">
+            <Name>NSDictionary(RACPExtensions)</Name>
+            <Path>Categories/NSDictionary+RACPExtensions.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Categories/NSDictionary+RACPExtensions.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Categories/NSDictionary+RACPExtensions.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                
+                
+                <Node type="section">
+                    <Path>Categories/NSDictionary+RACPExtensions.html</Path>
+                    <Name>Instance Methods</Name>
+                    <Anchor>instance_methods</Anchor>
+                </Node>
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="14" type="file" documentType="reference">
+            <Name>NSString(GUIDExtension)</Name>
+            <Path>Categories/NSString+GUIDExtension.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Categories/NSString+GUIDExtension.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Categories/NSString+GUIDExtension.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                
+                <Node type="section">
+                    <Path>Categories/NSString+GUIDExtension.html</Path>
+                    <Name>Class Methods</Name>
+                    <Anchor>class_methods</Anchor>
+                </Node>
+                
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="15" type="file" documentType="reference">
+            <Name>UIBezierPath(Arrow)</Name>
+            <Path>Categories/UIBezierPath+Arrow.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Categories/UIBezierPath+Arrow.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Categories/UIBezierPath+Arrow.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                
+                <Node type="section">
+                    <Path>Categories/UIBezierPath+Arrow.html</Path>
+                    <Name>Class Methods</Name>
+                    <Anchor>class_methods</Anchor>
+                </Node>
+                
+                
+            </Subnodes>
+            
+        </Node>
+		
+        <Node id="16" type="file" documentType="reference">
+            <Name>UHNBLEControllerDelegate</Name>
+            <Path>Protocols/UHNBLEControllerDelegate.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Protocols/UHNBLEControllerDelegate.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Protocols/UHNBLEControllerDelegate.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                
+                
+                <Node type="section">
+                    <Path>Protocols/UHNBLEControllerDelegate.html</Path>
+                    <Name>Instance Methods</Name>
+                    <Anchor>instance_methods</Anchor>
+                </Node>
+                
+            </Subnodes>
+            
+        </Node>
+		<Node id="17" type="file" documentType="reference">
+            <Name>UHNCGMControllerDelegate</Name>
+            <Path>Protocols/UHNCGMControllerDelegate.html</Path>
+            
+                <Subnodes>
+                <Node type="section">
+                    <Path>Protocols/UHNCGMControllerDelegate.html</Path>
+                    <Name>Overview</Name>
+                    <Anchor>overview</Anchor>
+                </Node>
+                <Node type="section">
+                    <Path>Protocols/UHNCGMControllerDelegate.html</Path>
+                    <Name>Tasks</Name>
+                    <Anchor>tasks</Anchor>
+                </Node>
+                
+                
+                
+                <Node type="section">
+                    <Path>Protocols/UHNCGMControllerDelegate.html</Path>
+                    <Name>Instance Methods</Name>
+                    <Anchor>instance_methods</Anchor>
+                </Node>
+                
+            </Subnodes>
+            
+        </Node>
+		
+        <Node id="18" type="file" documentType="reference">
+            <Name>CGMCPCalibrationStatusOption</Name>
+            <Path>Constants/CGMCPCalibrationStatusOption.html</Path>
+            
+        </Node>
+		<Node id="19" type="file" documentType="reference">
+            <Name>CGMCPOpCode</Name>
+            <Path>Constants/CGMCPOpCode.html</Path>
+            
+        </Node>
+		<Node id="20" type="file" documentType="reference">
+            <Name>CGMCPResponseCode</Name>
+            <Path>Constants/CGMCPResponseCode.html</Path>
+            
+        </Node>
+		<Node id="21" type="file" documentType="reference">
+            <Name>CGMFeatureOption</Name>
+            <Path>Constants/CGMFeatureOption.html</Path>
+            
+        </Node>
+		<Node id="22" type="file" documentType="reference">
+            <Name>CGMMeasurementFlagOption</Name>
+            <Path>Constants/CGMMeasurementFlagOption.html</Path>
+            
+        </Node>
+		<Node id="23" type="file" documentType="reference">
+            <Name>CGMStatusCalTempOption</Name>
+            <Path>Constants/CGMStatusCalTempOption.html</Path>
+            
+        </Node>
+		<Node id="24" type="file" documentType="reference">
+            <Name>CGMStatusStatusOptions</Name>
+            <Path>Constants/CGMStatusStatusOptions.html</Path>
+            
+        </Node>
+		<Node id="25" type="file" documentType="reference">
+            <Name>CGMStatusWarningOption</Name>
+            <Path>Constants/CGMStatusWarningOption.html</Path>
+            
+        </Node>
+		<Node id="26" type="file" documentType="reference">
+            <Name>DSTOffsetOption</Name>
+            <Path>Constants/DSTOffsetOption.html</Path>
+            
+        </Node>
+		<Node id="27" type="file" documentType="reference">
+            <Name>GlucoseFluidTypeOption</Name>
+            <Path>Constants/GlucoseFluidTypeOption.html</Path>
+            
+        </Node>
+		<Node id="28" type="file" documentType="reference">
+            <Name>GlucoseSampleLocationOption</Name>
+            <Path>Constants/GlucoseSampleLocationOption.html</Path>
+            
+        </Node>
+		<Node id="29" type="file" documentType="reference">
+            <Name>RACPFilterType</Name>
+            <Path>Constants/RACPFilterType.html</Path>
+            
+        </Node>
+		<Node id="30" type="file" documentType="reference">
+            <Name>RACPOpCode</Name>
+            <Path>Constants/RACPOpCode.html</Path>
+            
+        </Node>
+		<Node id="31" type="file" documentType="reference">
+            <Name>RACPOperator</Name>
+            <Path>Constants/RACPOperator.html</Path>
+            
+        </Node>
+		<Node id="32" type="file" documentType="reference">
+            <Name>RACPResponseCode</Name>
+            <Path>Constants/RACPResponseCode.html</Path>
+            
+        </Node>
+		
+        
+	</Library>
+</DocSetNodes>

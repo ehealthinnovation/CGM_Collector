@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Constants/CGMStatusWarningOption.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/c/tdef/CGMStatusWarningOption</TokenIdentifier>
+			<Abstract type="html">All possible CGM sessor status warning flags with their assigned bit position</Abstract>
+			<DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+			
+			<NodeRef refid="25"/>
+		</Token>
+		
+		
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMStatusWarningResultLowerThanPatientLow</TokenIdentifier>
+            <Abstract type="html">Flag indicating that glucose measurement exceeded the patient low alert level</Abstract>
+            <Declaration>CGMStatusWarningResultLowerThanPatientLow</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="25"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMStatusWarningResultHigherThanPatientHigh</TokenIdentifier>
+            <Abstract type="html">Flag indicating that glucose measurement exceeded the patient high alert level</Abstract>
+            <Declaration>CGMStatusWarningResultHigherThanPatientHigh</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="25"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMStatusWarningResultLowerThanHypo</TokenIdentifier>
+            <Abstract type="html">Flag indicating that glucose measurement exceeded the hypo alert level</Abstract>
+            <Declaration>CGMStatusWarningResultLowerThanHypo</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="25"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMStatusWarningResultHigherThanHyper</TokenIdentifier>
+            <Abstract type="html">Flag indicating that glucose measurement exceeded the hyper alert level</Abstract>
+            <Declaration>CGMStatusWarningResultHigherThanHyper</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="25"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMStatusWarningResultExceedRateDecrease</TokenIdentifier>
+            <Abstract type="html">Flag indicating that glucose measurement exceeded the rate of decrease alert level</Abstract>
+            <Declaration>CGMStatusWarningResultExceedRateDecrease</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="25"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMStatusWarningResultExceedRateIncrease</TokenIdentifier>
+            <Abstract type="html">Flag indicating that glucose measurement exceeded the rate of increase alert level</Abstract>
+            <Declaration>CGMStatusWarningResultExceedRateIncrease</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="25"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMStatusWarningSensorResultTooLow</TokenIdentifier>
+            <Abstract type="html">Flag indicating that glucose measurement exceeded the sensor lower limit</Abstract>
+            <Declaration>CGMStatusWarningSensorResultTooLow</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="25"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMStatusWarningSensorResultTooHigh</TokenIdentifier>
+            <Abstract type="html">Flag indicating that glucose measurement exceeded the sensor upper limit</Abstract>
+            <Declaration>CGMStatusWarningSensorResultTooHigh</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="25"/>
+        </Token>
+        
+        
+	</File>
+</Tokens>

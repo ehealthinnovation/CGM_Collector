@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/NSData+RACPCommands.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/NSData(RACPCommands)</TokenIdentifier>
+			<Abstract type="html">NSData+RACPCommands constructs record access control point commands and returns a cooresponding NSData object</Abstract>
+			<DeclaredIn>NSData+RACPCommands.h</DeclaredIn>
+            
+			
+			<NodeRef refid="10"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSData/reportAllStoredRecords</TokenIdentifier>
+			<Abstract type="html">Command for reporting all stored records</Abstract>
+			<DeclaredIn>NSData+RACPCommands.h</DeclaredIn>
+			
+			<Declaration>+ (NSData *)reportAllStoredRecords</Declaration>
+			
+			<ReturnValue><Abstract type="html">The command as a NSData object</Abstract></ReturnValue>
+			<Anchor>//api/name/reportAllStoredRecords</Anchor>
+            <NodeRef refid="10"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSData/reportStoredRecordsLessThanOrEqualToTimeOffset:</TokenIdentifier>
+			<Abstract type="html">Command for reporting stored records less than of equal to provided timeOffset</Abstract>
+			<DeclaredIn>NSData+RACPCommands.h</DeclaredIn>
+			
+			<Declaration>+ (NSData *)reportStoredRecordsLessThanOrEqualToTimeOffset:(uint16_t)timeOffset</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>timeOffset</Name>
+					<Abstract type="html">The time offset to report records less than or equal to.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">The command as a NSData object</Abstract></ReturnValue>
+			<Anchor>//api/name/reportStoredRecordsLessThanOrEqualToTimeOffset:</Anchor>
+            <NodeRef refid="10"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSData/reportStoredRecordsGreaterThanOrEqualToTimeOffset:</TokenIdentifier>
+			<Abstract type="html">Command for reporting stored records greater than of equal to provided timeOffset</Abstract>
+			<DeclaredIn>NSData+RACPCommands.h</DeclaredIn>
+			
+			<Declaration>+ (NSData *)reportStoredRecordsGreaterThanOrEqualToTimeOffset:(uint16_t)timeOffset</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>timeOffset</Name>
+					<Abstract type="html">The time offset to report records greater than or equal to.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">The command as a NSData object</Abstract></ReturnValue>
+			<Anchor>//api/name/reportStoredRecordsGreaterThanOrEqualToTimeOffset:</Anchor>
+            <NodeRef refid="10"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSData/reportStoredRecordsBetween:and:</TokenIdentifier>
+			<Abstract type="html">Command for reporting stored records between a max and min time offset</Abstract>
+			<DeclaredIn>NSData+RACPCommands.h</DeclaredIn>
+			
+			<Declaration>+ (NSData *)reportStoredRecordsBetween:(uint16_t)maxTimeOffset and:(uint16_t)minTimeOffset</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>maxTimeOffset</Name>
+					<Abstract type="html">The max time offset to report records less than or equal to.</Abstract>
+				</Parameter><Parameter>
+					<Name>minTimeOffset</Name>
+					<Abstract type="html">The min time offset to report records greater than or equal to.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">The command as a NSData object</Abstract></ReturnValue>
+			<Anchor>//api/name/reportStoredRecordsBetween:and:</Anchor>
+            <NodeRef refid="10"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSData/reportFirstStoredRecord</TokenIdentifier>
+			<Abstract type="html">Command for reporting the first stored record</Abstract>
+			<DeclaredIn>NSData+RACPCommands.h</DeclaredIn>
+			
+			<Declaration>+ (NSData *)reportFirstStoredRecord</Declaration>
+			
+			<ReturnValue><Abstract type="html">The command as a NSData object</Abstract></ReturnValue>
+			<Anchor>//api/name/reportFirstStoredRecord</Anchor>
+            <NodeRef refid="10"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSData/reportLastStoredRecord</TokenIdentifier>
+			<Abstract type="html">Command for reporting the last stored record</Abstract>
+			<DeclaredIn>NSData+RACPCommands.h</DeclaredIn>
+			
+			<Declaration>+ (NSData *)reportLastStoredRecord</Declaration>
+			
+			<ReturnValue><Abstract type="html">The command as a NSData object</Abstract></ReturnValue>
+			<Anchor>//api/name/reportLastStoredRecord</Anchor>
+            <NodeRef refid="10"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSData/deleteAllStoredRecords</TokenIdentifier>
+			<Abstract type="html">Command for deleting all stored records</Abstract>
+			<DeclaredIn>NSData+RACPCommands.h</DeclaredIn>
+			
+			<Declaration>+ (NSData *)deleteAllStoredRecords</Declaration>
+			
+			<ReturnValue><Abstract type="html">The command as a NSData object</Abstract></ReturnValue>
+			<Anchor>//api/name/deleteAllStoredRecords</Anchor>
+            <NodeRef refid="10"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSData/deleteStoredRecordsLessThanOrEqualToTimeOffset:</TokenIdentifier>
+			<Abstract type="html">Command for deleting stored records less than of equal to provided timeOffset</Abstract>
+			<DeclaredIn>NSData+RACPCommands.h</DeclaredIn>
+			
+			<Declaration>+ (NSData *)deleteStoredRecordsLessThanOrEqualToTimeOffset:(uint16_t)timeOffset</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>timeOffset</Name>
+					<Abstract type="html">The time offset to report records less than or equal to.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">The command as a NSData object</Abstract></ReturnValue>
+			<Anchor>//api/name/deleteStoredRecordsLessThanOrEqualToTimeOffset:</Anchor>
+            <NodeRef refid="10"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSData/deleteStoredRecordsGreaterThanOrEqualToTimeOffset:</TokenIdentifier>
+			<Abstract type="html">Command for deleting stored records greater than of equal to provided timeOffset</Abstract>
+			<DeclaredIn>NSData+RACPCommands.h</DeclaredIn>
+			
+			<Declaration>+ (NSData *)deleteStoredRecordsGreaterThanOrEqualToTimeOffset:(uint16_t)timeOffset</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>timeOffset</Name>
+					<Abstract type="html">The time offset to report records greater than or equal to.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">The command as a NSData object</Abstract></ReturnValue>
+			<Anchor>//api/name/deleteStoredRecordsGreaterThanOrEqualToTimeOffset:</Anchor>
+            <NodeRef refid="10"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSData/deleteStoredRecordsBetween:and:</TokenIdentifier>
+			<Abstract type="html">Command for deleting stored records between a max and min time offset</Abstract>
+			<DeclaredIn>NSData+RACPCommands.h</DeclaredIn>
+			
+			<Declaration>+ (NSData *)deleteStoredRecordsBetween:(uint16_t)minTimeOffset and:(uint16_t)maxTimeOffset</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>minTimeOffset</Name>
+					<Abstract type="html">The min time offset to report records greater than or equal to.</Abstract>
+				</Parameter><Parameter>
+					<Name>maxTimeOffset</Name>
+					<Abstract type="html">The max time offset to report records less than or equal to.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">The command as a NSData object</Abstract></ReturnValue>
+			<Anchor>//api/name/deleteStoredRecordsBetween:and:</Anchor>
+            <NodeRef refid="10"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSData/deleteFirstStoredRecord</TokenIdentifier>
+			<Abstract type="html">Command for deleting the first stored record</Abstract>
+			<DeclaredIn>NSData+RACPCommands.h</DeclaredIn>
+			
+			<Declaration>+ (NSData *)deleteFirstStoredRecord</Declaration>
+			
+			<ReturnValue><Abstract type="html">The command as a NSData object</Abstract></ReturnValue>
+			<Anchor>//api/name/deleteFirstStoredRecord</Anchor>
+            <NodeRef refid="10"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSData/deleteLastStoredRecord</TokenIdentifier>
+			<Abstract type="html">Command for deleting the last stored record</Abstract>
+			<DeclaredIn>NSData+RACPCommands.h</DeclaredIn>
+			
+			<Declaration>+ (NSData *)deleteLastStoredRecord</Declaration>
+			
+			<ReturnValue><Abstract type="html">The command as a NSData object</Abstract></ReturnValue>
+			<Anchor>//api/name/deleteLastStoredRecord</Anchor>
+            <NodeRef refid="10"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSData/reportNumberOfAllStoredRecords</TokenIdentifier>
+			<Abstract type="html">Command for reporting the number of all stored records</Abstract>
+			<DeclaredIn>NSData+RACPCommands.h</DeclaredIn>
+			
+			<Declaration>+ (NSData *)reportNumberOfAllStoredRecords</Declaration>
+			
+			<ReturnValue><Abstract type="html">The command as a NSData object</Abstract></ReturnValue>
+			<Anchor>//api/name/reportNumberOfAllStoredRecords</Anchor>
+            <NodeRef refid="10"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSData/reportNumberOfStoredRecordsLessThanOrEqualToTimeOffset:</TokenIdentifier>
+			<Abstract type="html">Command for reporting the number of stored records less than of equal to provided timeOffset</Abstract>
+			<DeclaredIn>NSData+RACPCommands.h</DeclaredIn>
+			
+			<Declaration>+ (NSData *)reportNumberOfStoredRecordsLessThanOrEqualToTimeOffset:(uint16_t)timeOffset</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>timeOffset</Name>
+					<Abstract type="html">The time offset to report records less than or equal to.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">The command as a NSData object</Abstract></ReturnValue>
+			<Anchor>//api/name/reportNumberOfStoredRecordsLessThanOrEqualToTimeOffset:</Anchor>
+            <NodeRef refid="10"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSData/reportNumberOfStoredRecordsGreaterThanOrEqualToTimeOffset:</TokenIdentifier>
+			<Abstract type="html">Command for reporting the number of stored records greater than of equal to provided timeOffset</Abstract>
+			<DeclaredIn>NSData+RACPCommands.h</DeclaredIn>
+			
+			<Declaration>+ (NSData *)reportNumberOfStoredRecordsGreaterThanOrEqualToTimeOffset:(uint16_t)timeOffset</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>timeOffset</Name>
+					<Abstract type="html">The time offset to report records greater than or equal to.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">The command as a NSData object</Abstract></ReturnValue>
+			<Anchor>//api/name/reportNumberOfStoredRecordsGreaterThanOrEqualToTimeOffset:</Anchor>
+            <NodeRef refid="10"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSData/reportNumberOfStoredRecordsBetween:and:</TokenIdentifier>
+			<Abstract type="html">Command for reporting the number of stored records between a max and min time offset</Abstract>
+			<DeclaredIn>NSData+RACPCommands.h</DeclaredIn>
+			
+			<Declaration>+ (NSData *)reportNumberOfStoredRecordsBetween:(uint16_t)minTimeOffset and:(uint16_t)maxTimeOffset</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>minTimeOffset</Name>
+					<Abstract type="html">The min time offset to report records greater than or equal to.</Abstract>
+				</Parameter><Parameter>
+					<Name>maxTimeOffset</Name>
+					<Abstract type="html">The max time offset to report records less than or equal to.</Abstract>
+				</Parameter>
+			</Parameters>
+			<ReturnValue><Abstract type="html">The command as a NSData object</Abstract></ReturnValue>
+			<Anchor>//api/name/reportNumberOfStoredRecordsBetween:and:</Anchor>
+            <NodeRef refid="10"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSData/reportNumberOfFirstStoredRecord</TokenIdentifier>
+			<Abstract type="html">Command for reporting the number of first stored records</Abstract>
+			<DeclaredIn>NSData+RACPCommands.h</DeclaredIn>
+			
+			<Declaration>+ (NSData *)reportNumberOfFirstStoredRecord</Declaration>
+			
+			<ReturnValue><Abstract type="html">The command as a NSData object</Abstract></ReturnValue>
+			<Anchor>//api/name/reportNumberOfFirstStoredRecord</Anchor>
+            <NodeRef refid="10"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSData/reportNumberOfLastStoredRecord</TokenIdentifier>
+			<Abstract type="html">Command for reporting the number of last stored records</Abstract>
+			<DeclaredIn>NSData+RACPCommands.h</DeclaredIn>
+			
+			<Declaration>+ (NSData *)reportNumberOfLastStoredRecord</Declaration>
+			
+			<ReturnValue><Abstract type="html">The command as a NSData object</Abstract></ReturnValue>
+			<Anchor>//api/name/reportNumberOfLastStoredRecord</Anchor>
+            <NodeRef refid="10"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/NSData/abortOperation</TokenIdentifier>
+			<Abstract type="html">Command to abort the current operation</Abstract>
+			<DeclaredIn>NSData+RACPCommands.h</DeclaredIn>
+			
+			<Declaration>+ (NSData *)abortOperation</Declaration>
+			
+			<ReturnValue><Abstract type="html">The command as a NSData object</Abstract></ReturnValue>
+			<Anchor>//api/name/abortOperation</Anchor>
+            <NodeRef refid="10"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

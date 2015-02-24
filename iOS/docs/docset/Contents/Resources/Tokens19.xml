@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Constants/CGMCPOpCode.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/c/tdef/CGMCPOpCode</TokenIdentifier>
+			<Abstract type="html">All possible CGMCP Op Codes with their assigned value</Abstract>
+			<DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+			
+			<NodeRef refid="19"/>
+		</Token>
+		
+		
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeCommIntervalSet</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a set communication interval request</Abstract>
+            <Declaration>CGMCPOpCodeCommIntervalSet</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeCommIntervalGet</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a get communication interval request</Abstract>
+            <Declaration>CGMCPOpCodeCommIntervalGet</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeCommIntervalResponse</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a get communication interval response</Abstract>
+            <Declaration>CGMCPOpCodeCommIntervalResponse</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeCalibrationValueSet</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a set calibration value request</Abstract>
+            <Declaration>CGMCPOpCodeCalibrationValueSet</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeCalibrationValueGet</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a get calibration value request</Abstract>
+            <Declaration>CGMCPOpCodeCalibrationValueGet</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeCalibrationValueResponse</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a get calibration value response</Abstract>
+            <Declaration>CGMCPOpCodeCalibrationValueResponse</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeAlertLevelPatientHighSet</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a set patient high alert level request</Abstract>
+            <Declaration>CGMCPOpCodeAlertLevelPatientHighSet</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeAlertLevelPatientHighGet</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a get patient high alert level request</Abstract>
+            <Declaration>CGMCPOpCodeAlertLevelPatientHighGet</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeAlertLevelPatientHighResponse</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a get patient high alert level response</Abstract>
+            <Declaration>CGMCPOpCodeAlertLevelPatientHighResponse</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeAlertLevelPatientLowSet</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a set patient low alert level request</Abstract>
+            <Declaration>CGMCPOpCodeAlertLevelPatientLowSet</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeAlertLevelPatientLowGet</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a get patient low alert level request</Abstract>
+            <Declaration>CGMCPOpCodeAlertLevelPatientLowGet</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeAlertLevelPatientLowResponse</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a get patient low alert level response</Abstract>
+            <Declaration>CGMCPOpCodeAlertLevelPatientLowResponse</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeAlertLevelHypoSet</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a set hypo alert level request</Abstract>
+            <Declaration>CGMCPOpCodeAlertLevelHypoSet</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeAlertLevelHypoGet</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a get hypo alert level request</Abstract>
+            <Declaration>CGMCPOpCodeAlertLevelHypoGet</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeAlertLevelHypoReponse</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a get hypo alert level response</Abstract>
+            <Declaration>CGMCPOpCodeAlertLevelHypoReponse</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeAlertLevelHyperSet</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a set hyper alert level request</Abstract>
+            <Declaration>CGMCPOpCodeAlertLevelHyperSet</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeAlertLevelHyperGet</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a get hyper alert level request</Abstract>
+            <Declaration>CGMCPOpCodeAlertLevelHyperGet</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeAlertLevelHyperReponse</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a get hyper alert level response</Abstract>
+            <Declaration>CGMCPOpCodeAlertLevelHyperReponse</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeAlertLevelRateDecreaseSet</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a set rate of decrease alert level request</Abstract>
+            <Declaration>CGMCPOpCodeAlertLevelRateDecreaseSet</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeAlertLevelRateDecreaseGet</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a get rate of decrease alert level request</Abstract>
+            <Declaration>CGMCPOpCodeAlertLevelRateDecreaseGet</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeAlertLevelRateDecreaseResponse</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a get rate of decrease alert level response</Abstract>
+            <Declaration>CGMCPOpCodeAlertLevelRateDecreaseResponse</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeAlertLevelRateIncreaseSet</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a set rate of increase alert level request</Abstract>
+            <Declaration>CGMCPOpCodeAlertLevelRateIncreaseSet</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeAlertLevelRateIncreaseGet</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a get rate of increase alert level request</Abstract>
+            <Declaration>CGMCPOpCodeAlertLevelRateIncreaseGet</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeAlertLevelRateIncreaseResponse</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a get rate of increase alert level response</Abstract>
+            <Declaration>CGMCPOpCodeAlertLevelRateIncreaseResponse</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeAlertDeviceSpecificReset</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a device specific alert reset request</Abstract>
+            <Declaration>CGMCPOpCodeAlertDeviceSpecificReset</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeSessionStart</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a start session request</Abstract>
+            <Declaration>CGMCPOpCodeSessionStart</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeSessionStop</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a stop session request</Abstract>
+            <Declaration>CGMCPOpCodeSessionStop</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMCPOpCodeResponse</TokenIdentifier>
+            <Abstract type="html">CGMCP op code indicating a general response</Abstract>
+            <Declaration>CGMCPOpCodeResponse</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="19"/>
+        </Token>
+        
+        
+	</File>
+</Tokens>

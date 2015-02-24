@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Constants/CGMFeatureOption.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/c/tdef/CGMFeatureOption</TokenIdentifier>
+			<Abstract type="html">All possible CGM feature flags with their assigned bit position</Abstract>
+			<DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+			
+			<NodeRef refid="21"/>
+		</Token>
+		
+		
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMFeatureSupportedCalibration</TokenIdentifier>
+            <Abstract type="html">Flag indicating that calibration is supported by the CGM sensor</Abstract>
+            <Declaration>CGMFeatureSupportedCalibration</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="21"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMFeatureSupportedAlertLowHighPatient</TokenIdentifier>
+            <Abstract type="html">Flag indicating that the patient low and high alert levels are supported by the CGM sensor</Abstract>
+            <Declaration>CGMFeatureSupportedAlertLowHighPatient</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="21"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMFeatureSupportedAlertHypo</TokenIdentifier>
+            <Abstract type="html">Flag indicating that the hypo alert level is supported by the CGM sensor</Abstract>
+            <Declaration>CGMFeatureSupportedAlertHypo</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="21"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMFeatureSupportedAlertHyper</TokenIdentifier>
+            <Abstract type="html">Flag indicating that the hyper alert level is supported by the CGM sensor</Abstract>
+            <Declaration>CGMFeatureSupportedAlertHyper</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="21"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMFeatureSupportedAlertIncreaseDecreaseRate</TokenIdentifier>
+            <Abstract type="html">Flag indicating that the rate of increase and decrease alert levels are supported by the CGM sensor</Abstract>
+            <Declaration>CGMFeatureSupportedAlertIncreaseDecreaseRate</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="21"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMFeatureSupportedAlertDeviceSpecific</TokenIdentifier>
+            <Abstract type="html">Flag indicating that the device specific alert is supported by the CGM sensor</Abstract>
+            <Declaration>CGMFeatureSupportedAlertDeviceSpecific</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="21"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMFeatureSupportedSensorDetectionMalfunction</TokenIdentifier>
+            <Abstract type="html">Flag indicating that the detection of sensor malfunctions is supported by the CGM sensor</Abstract>
+            <Declaration>CGMFeatureSupportedSensorDetectionMalfunction</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="21"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMFeatureSupportedSensorDetectionLowHighTemp</TokenIdentifier>
+            <Abstract type="html">Flag indicating that the detection of sensor temperature too low and too high for accurate measurement results is supported by the CGM sensor</Abstract>
+            <Declaration>CGMFeatureSupportedSensorDetectionLowHighTemp</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="21"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMFeatureSupportedSensorDetectionLowHighResult</TokenIdentifier>
+            <Abstract type="html">Flag indicating that the detection of results outside of the sensor lower and upper limits is supported by the CGM sensor</Abstract>
+            <Declaration>CGMFeatureSupportedSensorDetectionLowHighResult</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="21"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMFeatureSupportedLowBattery</TokenIdentifier>
+            <Abstract type="html">Flag indicating that low battery alert is supported by the CGM sensor</Abstract>
+            <Declaration>CGMFeatureSupportedLowBattery</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="21"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMFeatureSupportedSensorDetectionTypeError</TokenIdentifier>
+            <Abstract type="html">Flag indicating that the detection of incorrect sensor type is supported by the CGM sensor</Abstract>
+            <Declaration>CGMFeatureSupportedSensorDetectionTypeError</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="21"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMFeatureSupportedGeneralDeviceFault</TokenIdentifier>
+            <Abstract type="html">Flag indicating that general device fault alert is supported by the CGM sensor</Abstract>
+            <Declaration>CGMFeatureSupportedGeneralDeviceFault</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="21"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMFeatureSupportedE2ECRC</TokenIdentifier>
+            <Abstract type="html">Flag indicating that end-to-end CRC is supported by the CGM sensor</Abstract>
+            <Declaration>CGMFeatureSupportedE2ECRC</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="21"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMFeatureSupportedMultipleBond</TokenIdentifier>
+            <Abstract type="html">Flag indicating that multiple bonds is supported by the CGM sensor</Abstract>
+            <Declaration>CGMFeatureSupportedMultipleBond</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="21"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMFeatureSupportedMultipleSession</TokenIdentifier>
+            <Abstract type="html">Flag indicating that multiple sessions is supported by the CGM sensor</Abstract>
+            <Declaration>CGMFeatureSupportedMultipleSession</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="21"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMFeatureSupportedCGMTrend</TokenIdentifier>
+            <Abstract type="html">Flag indicating that measurement trend is supported by the CGM sensor</Abstract>
+            <Declaration>CGMFeatureSupportedCGMTrend</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="21"/>
+        </Token>
+        
+        <Token>
+            <TokenIdentifier>//apple_ref/c/econst/CGMFeatureSupportedCGMQuality</TokenIdentifier>
+            <Abstract type="html">Flag indicating that measurement quality is supported by the CGM sensor</Abstract>
+            <Declaration>CGMFeatureSupportedCGMQuality</Declaration>
+            
+            <DeclaredIn>UHNCGMConstants.h</DeclaredIn>
+            
+            <NodeRef refid="21"/>
+        </Token>
+        
+        
+	</File>
+</Tokens>
