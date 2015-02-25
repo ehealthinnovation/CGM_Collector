@@ -10,9 +10,7 @@ PODS:
 
 DEPENDENCIES:
   - NHArrowView
-  - UHNBLEController
   - UHNCGMController
-  - UHNDebug
   - UHNTimeSeriesPlotView
 
 SPEC CHECKSUMS:
