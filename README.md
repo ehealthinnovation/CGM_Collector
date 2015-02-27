@@ -5,7 +5,7 @@ CGM_Collector
 
 This is the manager/collector CGM app repo for the JDRF workshops. Will include iOS and Android CGM Collector apps.
 
-This app combines the following cocoapods:
+Currently, the iOS app combines the following cocoapods:
 
 * UHNCGMController        http://cocoapods.org/?q=UHNCGMController
 * NHArrowView             http://cocoapods.org/?q=NHArrowView
